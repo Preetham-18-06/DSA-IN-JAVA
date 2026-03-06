@@ -3,6 +3,7 @@
 This repository contains my Data Structures and Algorithms practice in Java.
 
 ## Topics Covered
+-Patterns
 - Arrays
 - Strings
 - Recursion
