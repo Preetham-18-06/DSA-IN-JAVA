@@ -1,3 +1,33 @@
+/*
+Program: Power of a Number
+
+Description:
+This Java program calculates the value of x raised to the power n (x^n).
+The user enters the value of n in the main function and the value of x 
+inside the power() method. The program multiplies x repeatedly n times 
+using a loop to compute the result.
+
+Example:
+Input:
+x = 2
+n = 3
+
+Output:
+2 to the power of 3 is 8
+
+Approach:
+1. Read the value of n from the user.
+2. Read the value of x inside the power() function.
+3. Initialize result = 1.
+4. Multiply result by x repeatedly for n iterations using a for loop.
+5. Print the final result.
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+Author: Preetham
+Language: Java
+*/
 import java.util.Scanner;
 
 public class Exp
